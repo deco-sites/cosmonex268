@@ -3555,13 +3555,14 @@
   "site": {
     "seo": {
       "type": "website",
-      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/a5d890ba-e5b8-471e-8b77-7412c1d4fa56",
-      "title": "Storefront",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/7724/ee0f9627-6f5e-4b07-b90c-6c7ade9a7e7d",
+      "title": "CosmoNex",
       "jsonLDs": [],
-      "noIndexing": false,
-      "description": "Improve your page performance with deco.cx",
+      "noIndexing": true,
+      "description": "Where Tech Meets Space.",
       "titleTemplate": "%s | deco.cx",
-      "descriptionTemplate": "%s | Deco.cx"
+      "descriptionTemplate": "%s | Deco.cx",
+      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/7724/69a9f665-43e7-465d-8d7c-4f75f8be0fbb"
     },
     "theme": {
       "__resolveType": "Fashion theme"
